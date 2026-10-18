@@ -10,17 +10,17 @@
   {
     "date": "2026-06-13",
     "dateEnd": "2026-06-13",
-    "title": "Özel Etkinlik",
+    "title": "HUMANKA & Ayça Bal",
     "venue": "Radisson Blu Tuzla",
     "city": "İstanbul, Türkiye",
     "type": "Özel"
   },
   {
-    "date": "2026-06-20",
-    "dateEnd": "2026-06-20",
+    "date": "2026-06-21",
+    "dateEnd": "2026-06-21",
     "title": "Shambala",
     "venue": "Shambala",
-    "city": "Türkiye",
+    "city": "Bodrum, Türkiye",
     "type": "Konser"
   },
   {
@@ -45,14 +45,6 @@
     "title": "Muse Fest",
     "venue": "Alaçatı",
     "city": "İzmir, Türkiye",
-    "type": "Festival"
-  },
-  {
-    "date": "2026-08-28",
-    "dateEnd": "2026-08-31",
-    "title": "Kut Spirit Festival",
-    "venue": "Kut Spirit Festival",
-    "city": "Türkiye",
     "type": "Festival"
   }
 ]
